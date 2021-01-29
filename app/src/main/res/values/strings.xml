@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PmAcademyAndroid-Metelov-L18</string>
+    <string name="buttoon_task_3">Task 3</string>
+    <string name="button_task_2">Task 2</string>
+    <string name="button_task_1">Task 1</string>
+    <string name="button_gradient_amp_selector">GRADIENT \&amp; SELECTOR</string>
+    <string name="button_glidecircleimganimdownload">Glide Circle Img Anim Download</string>
+    <string name="button_bitmap_draw">Bitmap Draw</string>
 </resources>
